@@ -2,3 +2,14 @@ h1{
     color: orangered;
     text-align: center;
 }
+p{
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    color: navy;
+    background-color: palegreen;
+    border: 20px solid gray;
+    padding: 20px 30px;
+    margin: 15px 20px;
+    border-radius: 5%;
+}
